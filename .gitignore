@@ -1,5 +1,6 @@
 # vscode
 .vscode/
+package.json
 
 # Prerequisites
 *.d
