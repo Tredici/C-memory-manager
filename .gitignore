@@ -2,6 +2,11 @@
 .vscode/
 package.json
 
+# tests
+test/*
+!test/Makefile
+!test/*.cc
+
 # Prerequisites
 *.d
 
